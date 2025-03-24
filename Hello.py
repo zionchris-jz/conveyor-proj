@@ -1,1 +1,2 @@
 print("Zion")
+print("magicians")
